@@ -66,7 +66,7 @@ function Snav() {
                 setHoverData(val.title);
               }}
             >
-              <div className="text-sm text-gray-600 hover:text-blue-400 transition-all duration-300  cursor-pointer">
+              <div className="text-sm text-gray-600 hover:text-blue-400 transition-all duration-700  cursor-pointer">
                 {val.title}
                 <div
                   className={`w-full h-[1.5px] bg-blue-500 transition-all duration-300 ${
